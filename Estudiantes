@@ -1,0 +1,290 @@
+[
+  {
+    "nombre": "Carlos Ramírez",
+    "edad": 23,
+    "ciudad": "Popayán",
+    "correo": "carlos23@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('001')",
+        "fecha_inscripcion": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "nombre": "Laura Gómez",
+    "edad": 21,
+    "ciudad": "Popayán",
+    "correo": "laurag21@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('002')",
+        "fecha_inscripcion": "2025-02-11"
+      }
+    ]
+  },
+  {
+    "nombre": "Juan Torres",
+    "edad": 25,
+    "ciudad": "Cali",
+    "correo": "juan.torres25@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('003')",
+        "fecha_inscripcion": "2025-02-12"
+      }
+    ]
+  },
+  {
+    "nombre": "Mariana López",
+    "edad": 22,
+    "ciudad": "Pasto",
+    "correo": "mariana.lopez22@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('004')",
+        "fecha_inscripcion": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "nombre": "Daniel Pardo",
+    "edad": 24,
+    "ciudad": "Popayán",
+    "correo": "danielp24@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('005')",
+        "fecha_inscripcion": "2025-02-13"
+      }
+    ]
+  },
+  {
+    "nombre": "Ana Castillo",
+    "edad": 20,
+    "ciudad": "Popayán",
+    "correo": "ana.castillo20@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('006')",
+        "fecha_inscripcion": "2025-02-14"
+      }
+    ]
+  },
+  {
+    "nombre": "Felipe Rivas",
+    "edad": 26,
+    "ciudad": "Cali",
+    "correo": "felipe.rivas26@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('007')",
+        "fecha_inscripcion": "2025-02-11"
+      }
+    ]
+  },
+  {
+    "nombre": "Paola Sánchez",
+    "edad": 23,
+    "ciudad": "Popayán",
+    "correo": "paola.s23@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('008')",
+        "fecha_inscripcion": "2025-02-16"
+      }
+    ]
+  },
+  {
+    "nombre": "Jorge Medina",
+    "edad": 22,
+    "ciudad": "Palmira",
+    "correo": "jorge.med22@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('009')",
+        "fecha_inscripcion": "2025-02-17"
+      }
+    ]
+  },
+  {
+    "nombre": "Luisa Grijalba",
+    "edad": 24,
+    "ciudad": "Popayán",
+    "correo": "luisa.g24@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('010')",
+        "fecha_inscripcion": "2025-02-15"
+      }
+    ]
+  },
+  {
+    "nombre": "Cristian Orozco",
+    "edad": 23,
+    "ciudad": "Popayán",
+    "correo": "cristian.or23@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('011')",
+        "fecha_inscripcion": "2025-02-11"
+      }
+    ]
+  },
+  {
+    "nombre": "Valentina Muñoz",
+    "edad": 22,
+    "ciudad": "Popayán",
+    "correo": "valen.m22@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('012')",
+        "fecha_inscripcion": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "nombre": "Andrés Silva",
+    "edad": 27,
+    "ciudad": "Cali",
+    "correo": "andres.s27@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('013')",
+        "fecha_inscripcion": "2025-02-14"
+      }
+    ]
+  },
+  {
+    "nombre": "Camila Ramos",
+    "edad": 21,
+    "ciudad": "Popayán",
+    "correo": "camila.r21@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('014')",
+        "fecha_inscripcion": "2025-02-12"
+      }
+    ]
+  },
+  {
+    "nombre": "Oscar López",
+    "edad": 28,
+    "ciudad": "Pasto",
+    "correo": "oscar.lo28@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('015')",
+        "fecha_inscripcion": "2025-02-11"
+      }
+    ]
+  },
+  {
+    "nombre": "Sara Méndez",
+    "edad": 22,
+    "ciudad": "Popayán",
+    "correo": "sara.m22@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('016')",
+        "fecha_inscripcion": "2025-02-18"
+      }
+    ]
+  },
+  {
+    "nombre": "David Valencia",
+    "edad": 24,
+    "ciudad": "Cali",
+    "correo": "david.v24@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('017')",
+        "fecha_inscripcion": "2025-02-13"
+      }
+    ]
+  },
+  {
+    "nombre": "Catalina Arteaga",
+    "edad": 23,
+    "ciudad": "Popayán",
+    "correo": "catalina.a23@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('018')",
+        "fecha_inscripcion": "2025-02-19"
+      }
+    ]
+  },
+  {
+    "nombre": "Samuel Hurtado",
+    "edad": 20,
+    "ciudad": "Popayán",
+    "correo": "samuel.h20@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('019')",
+        "fecha_inscripcion": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "nombre": "Karol Díaz",
+    "edad": 22,
+    "ciudad": "Cali",
+    "correo": "karol.d22@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('020')",
+        "fecha_inscripcion": "2025-02-14"
+      }
+    ]
+  },
+  {
+    "nombre": "Henry Salazar",
+    "edad": 25,
+    "ciudad": "Popayán",
+    "correo": "henry.s25@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('021')",
+        "fecha_inscripcion": "2025-02-12"
+      }
+    ]
+  },
+  {
+    "nombre": "Diana Cuéllar",
+    "edad": 23,
+    "ciudad": "Popayán",
+    "correo": "diana.c23@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('022')",
+        "fecha_inscripcion": "2025-02-11"
+      }
+    ]
+  },
+  {
+    "nombre": "Esteban Mora",
+    "edad": 26,
+    "ciudad": "Cali",
+    "correo": "esteban.m26@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('023')",
+        "fecha_inscripcion": "2025-02-17"
+      }
+    ]
+  },
+  {
+    "nombre": "Linda Rojas",
+    "edad": 22,
+    "ciudad": "Popayán",
+    "correo": "linda.r22@gmail.com",
+    "inscripciones": [
+      {
+        "curso_id": "ObjectId('024')",
+        "fecha_inscripcion": "2025-02-18"
+      }
+    ]
+  }
+]
