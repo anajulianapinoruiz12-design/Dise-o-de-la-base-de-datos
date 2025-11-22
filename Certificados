@@ -1,0 +1,222 @@
+[
+  {
+    "titulo": "Patrones de Diseño en Java",
+    "categoria": "Programación",
+    "duracion_horas": 50,
+    "nivel": "Avanzado",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Singleton", "videos": 8 },
+      { "nombre": "Factory", "videos": 6 }
+    ]
+  },
+  {
+    "titulo": "Linux Desde Cero",
+    "categoria": "Sistemas Operativos",
+    "duracion_horas": 35,
+    "nivel": "Básico",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Comandos Básicos", "videos": 10 },
+      { "nombre": "Gestión de Archivos", "videos": 6 }
+    ]
+  },
+  {
+    "titulo": "Desarrollo de APIs con FastAPI",
+    "categoria": "Programación",
+    "duracion_horas": 45,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Endpoints", "videos": 7 },
+      { "nombre": "Autenticación", "videos": 6 }
+    ]
+  },
+  {
+    "titulo": "Unity para Videojuegos",
+    "categoria": "Videojuegos",
+    "duracion_horas": 60,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Motor Unity", "videos": 12 },
+      { "nombre": "C# para Juegos", "videos": 10 }
+    ]
+  },
+  {
+    "titulo": "Ciberseguridad para Principiantes",
+    "categoria": "Seguridad Informática",
+    "duracion_horas": 30,
+    "nivel": "Básico",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Hacking Ético", "videos": 6 },
+      { "nombre": "Análisis de Vulnerabilidades", "videos": 6 }
+    ]
+  },
+  {
+    "titulo": "Fundamentos de Machine Learning",
+    "categoria": "Inteligencia Artificial",
+    "duracion_horas": 55,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Regresiones", "videos": 8 },
+      { "nombre": "Clasificación", "videos": 8 }
+    ]
+  },
+  {
+    "titulo": "Photoshop Profesional",
+    "categoria": "Diseño",
+    "duracion_horas": 40,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Retoque Fotográfico", "videos": 10 },
+      { "nombre": "Composición", "videos": 7 }
+    ]
+  },
+  {
+    "titulo": "Diseño UX/UI Desde Cero",
+    "categoria": "Diseño",
+    "duracion_horas": 35,
+    "nivel": "Básico",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Principios UX", "videos": 6 },
+      { "nombre": "Prototipado", "videos": 6 }
+    ]
+  },
+  {
+    "titulo": "Administración de Redes",
+    "categoria": "Redes",
+    "duracion_horas": 48,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "TCP/IP", "videos": 8 },
+      { "nombre": "Routing", "videos": 7 }
+    ]
+  },
+  {
+    "titulo": "Automatización con Power Automate",
+    "categoria": "Productividad",
+    "duracion_horas": 28,
+    "nivel": "Básico",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Flujos Automatizados", "videos": 5 },
+      { "nombre": "Conectores", "videos": 5 }
+    ]
+  },
+  {
+    "titulo": "Fundamentos de Big Data",
+    "categoria": "Datos",
+    "duracion_horas": 40,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Hadoop", "videos": 8 },
+      { "nombre": "MapReduce", "videos": 6 }
+    ]
+  },
+  {
+    "titulo": "Visualización de Datos con Tableau",
+    "categoria": "Datos",
+    "duracion_horas": 32,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Dashboards", "videos": 6 },
+      { "nombre": "Gráficos Avanzados", "videos": 5 }
+    ]
+  },
+  {
+    "titulo": "Introducción a Blockchain",
+    "categoria": "Tecnología",
+    "duracion_horas": 36,
+    "nivel": "Básico",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Criptografía", "videos": 7 },
+      { "nombre": "Smart Contracts", "videos": 6 }
+    ]
+  },
+  {
+    "titulo": "Modelado 3D con Blender",
+    "categoria": "Diseño",
+    "duracion_horas": 50,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Modelado Básico", "videos": 10 },
+      { "nombre": "Animación", "videos": 8 }
+    ]
+  },
+  {
+    "titulo": "Administración de Windows Server",
+    "categoria": "Sistemas Operativos",
+    "duracion_horas": 42,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Active Directory", "videos": 7 },
+      { "nombre": "Administración", "videos": 6 }
+    ]
+  },
+  {
+    "titulo": "Laravel para Principiantes",
+    "categoria": "Programación",
+    "duracion_horas": 30,
+    "nivel": "Básico",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Rutas y Controladores", "videos": 6 },
+      { "nombre": "Blade", "videos": 5 }
+    ]
+  },
+  {
+    "titulo": "SQL para Analistas",
+    "categoria": "Bases de Datos",
+    "duracion_horas": 38,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Consultas SQL", "videos": 7 },
+      { "nombre": "Joins", "videos": 6 }
+    ]
+  },
+  {
+    "titulo": "Programación Orientada a Objetos",
+    "categoria": "Programación",
+    "duracion_horas": 36,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Clases", "videos": 6 },
+      { "nombre": "Herencia", "videos": 5 }
+    ]
+  },
+  {
+    "titulo": "Edición de Video con Premiere",
+    "categoria": "Multimedia",
+    "duracion_horas": 45,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "Cortes y Montaje", "videos": 10 },
+      { "nombre": "Efectos", "videos": 8 }
+    ]
+  },
+  {
+    "titulo": "Estrategias de Marketing Digital",
+    "categoria": "Marketing",
+    "duracion_horas": 30,
+    "nivel": "Intermedio",
+    "instructor_id": ObjectId(),
+    "modulos": [
+      { "nombre": "SEO", "videos": 6 },
+      { "nombre": "SEM", "videos": 5 }
+    ]
+  }
+]
