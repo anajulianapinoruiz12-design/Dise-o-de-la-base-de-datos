@@ -1,1 +1,0 @@
-# Dise-o-de-la-base-de-datos
