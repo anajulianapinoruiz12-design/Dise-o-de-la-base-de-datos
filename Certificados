@@ -1,0 +1,103 @@
+use LearnPopayanDB;
+
+db.cursos.insertMany([
+  {
+    nombre: "Introducción a MongoDB",
+    descripcion: "Aprende los conceptos básicos de MongoDB y cómo manejar bases de datos NoSQL.",
+    instructor: "Laura Gómez",
+    categoria: "Desarrollo",
+    nivel: "Principiante",
+    duracion_horas: 5
+  },
+  {
+    nombre: "MongoDB para Desarrolladores de Node.js",
+    descripcion: "Integra MongoDB con aplicaciones Node.js.",
+    instructor: "Juan Pérez",
+    categoria: "Desarrollo",
+    nivel: "Intermedio",
+    duracion_horas: 8
+  },
+  {
+    nombre: "Modelado de Datos en MongoDB",
+    descripcion: "Diseña esquemas eficientes y optimizados para MongoDB.",
+    instructor: "Carla Rodríguez",
+    categoria: "Desarrollo",
+    nivel: "Intermedio",
+    duracion_horas: 6
+  },
+  {
+    nombre: "Agregaciones en MongoDB",
+    descripcion: "Aprende a utilizar el framework de agregación para consultas avanzadas.",
+    instructor: "Andrés Martínez",
+    categoria: "Ciencia de Datos",
+    nivel: "Avanzado",
+    duracion_horas: 7
+  },
+  {
+    nombre: "Administración de Bases de Datos MongoDB",
+    descripcion: "Configuración, monitoreo y optimización de MongoDB.",
+    instructor: "Diana López",
+    categoria: "Desarrollo",
+    nivel: "Avanzado",
+    duracion_horas: 10
+  },
+  {
+    nombre: "MongoDB con Python",
+    descripcion: "Conecta MongoDB con aplicaciones Python usando PyMongo.",
+    instructor: "Felipe Sánchez",
+    categoria: "Desarrollo",
+    nivel: "Intermedio",
+    duracion_horas: 8
+  },
+  {
+    nombre: "MongoDB y Mongoose para Node.js",
+    descripcion: "Aprende a usar Mongoose para modelar datos en Node.js.",
+    instructor: "Valeria Torres",
+    categoria: "Desarrollo",
+    nivel: "Intermedio",
+    duracion_horas: 6
+  },
+  {
+    nombre: "Optimización de Consultas en MongoDB",
+    descripcion: "Técnicas para mejorar el rendimiento de tus consultas.",
+    instructor: "Jorge Herrera",
+    categoria: "Ciencia de Datos",
+    nivel: "Avanzado",
+    duracion_horas: 7
+  },
+  {
+    nombre: "Seguridad en MongoDB",
+    descripcion: "Implementación de roles, permisos y buenas prácticas de seguridad.",
+    instructor: "Natalia Jiménez",
+    categoria: "Desarrollo",
+    nivel: "Avanzado",
+    duracion_horas: 5
+  },
+  {
+    nombre: "MongoDB Atlas: Gestión en la Nube",
+    descripcion: "Aprende a desplegar y administrar bases de datos en MongoDB Atlas.",
+    instructor: "Carlos Morales",
+    categoria: "Desarrollo",
+    nivel: "Intermedio",
+    duracion_horas: 6
+  },
+  {
+    nombre: "Fundamentos de NoSQL y MongoDB",
+    descripcion: "Comprende las diferencias entre bases de datos SQL y NoSQL.",
+    instructor: "Paula Ramírez",
+    categoria: "Desarrollo",
+    nivel: "Principiante",
+    duracion_horas: 4
+  },
+  {
+    nombre: "MongoDB para Ciencia de Datos",
+    descripcion: "Análisis de datos y agregaciones para proyectos de data science.",
+    instructor: "Sebastián Díaz",
+    categoria: "Ciencia de Datos",
+    nivel: "Intermedio",
+    duracion_horas: 8
+  },
+  {
+    nombre: "Backup y Recuperación en MongoDB",
+    descripcion: "Aprende estrategias de respaldo y restauración.",
+    instructor:
